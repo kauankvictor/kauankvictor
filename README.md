@@ -2,5 +2,5 @@
 
 - 👤 Atualmente trabalhando na Brazil Paraiba Mine
 - 👾 Estudante técnico de infromática no IFRN
-  HTML | CSS | Python
+- HTML | CSS | Python
 
