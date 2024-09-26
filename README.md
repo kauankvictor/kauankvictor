@@ -1,6 +1,6 @@
-## Hi there 👋
+## Kauan Victor 👋
 
 - 👤 Atualmente trabalhando na Brazil Paraiba Mine
-- 👾 Estudante técnico de infromática no IFRN
+- 👾 Estudante técnico de informática no IFRN
 - HTML | CSS | Python
 
